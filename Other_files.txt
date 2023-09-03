@@ -3,3 +3,7 @@ https://drive.google.com/file/d/1Ud2wxU08Z0I2gPjsypefEwuCi-4OPLEu/view?usp=shari
 
 Abaqus 2016 All PDF Documentation Google drive link:
 https://drive.google.com/drive/folders/1zSezgheOWYJckeVGEgDYizSZR6EJSP8U?usp=sharing
+
+For online Official Documentation, create an account at below link:
+You will find the all Abaqus version documentation here.
+https://eu1.iam.3dexperience.3ds.com/
